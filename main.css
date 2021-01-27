@@ -109,16 +109,16 @@ img {
 }
 
 .boxblue {
-    background-color: rgba(25, 20, 190, 0.1);
-    border: 1px solid  rgb(25, 20, 190);
+    background-color: rgba(60, 150, 240, 0.1);
+    border: 1px solid  rgb(50, 150, 240);
     border-radius: 6px;
     padding: 5px 15px;
     margin: 15px 0;
 } .boxblue h2 {
-    color: rgb(25, 20, 190);
+    color: rgb(50, 150, 240);
     font-weight: bold;
 } .boxblue p {
-    color:  rgb(25, 20, 190);
+    color:  rgb(50, 150, 240);
 }
 
 .boxyellow {
