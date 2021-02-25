@@ -1,5 +1,5 @@
-## APROX PES Site
+## APROX Status Site
 
-APROX PES site is a backup site designed for specific use cases.
+APROX Status site is a backup site designed for specific use cases.
 
-APROX PES: https://pes.aprox.us/
+APROX Status: https://status.aprox.us/
